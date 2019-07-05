@@ -73,6 +73,7 @@ set(files
     zoji.yml
     zte.yml
     zuk.yml
+    Philips_S327.yml
 )
 
 set(target_file "${CMAKE_CURRENT_BINARY_DIR}/devices.json")
